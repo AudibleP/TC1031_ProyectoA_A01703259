@@ -1,4 +1,4 @@
-# Biblioteca de Steam fuera de Steam.
+# Biblioteca de Steam fuera de Steam...
 ***¿Porque usarla? Nadie lo sabe*** (que buen slogan)
 
 Este proyecto busca hacer una biblioteca de tus juegos en steam y todas sus caracteristicas e informacion. Este avance enseña la libreria solo con dos datos el nombre y el tiempo de juego en horas.
