@@ -25,4 +25,18 @@ Este avance rompio el merge sort (xd), pero se le pueden añadir nombres a la li
 ### Hace un análisis de complejidad correcto y completo para todo el programa y sus componetes.
 Se uso una linkedList simple, lo cual quiere decir que  en su peor de los casos es un O(n) y sus funciones como insertion son O(1).
 
+# Avance 3 (Competencias).
+En este avance se arreglo y mejoro todo lo que tiene que ver con sorts, ya que ahora se puede acomodar de distintas formas y por falta de tiempo los arboles solo muestran los valores de horas. (Tambien se elimino lo de listas).
+
+## SICT0301B: Evalúa los componentes
+### Hace un análisis de complejidad correcto y completo para todo el programa y sus compenetes.
+Mergesort tiene una complejidad de O(n log(n)) para todos sus casos con una complejidad unica de O(n).
+El uso de un Árbol de Búsqueda Binaria posee una complejidad de O(n) para los peores casos en inserción de datos, el acceso al árbol y la búsqueda de valores.
+### Casos de prueba
+Al momento de iniciar el programa saldra un menu el cual mostrara tres opciones, si presionas el boton 1 te desplegara la base de datos de los juegos en desorden, si presionas 2 mostrara un segundo menu que preguntara como se quiere ordenar: si presionas 1 lo ordenara por nombre y si presionas 2 lo ordenara por hora y regresando al primer menu, si presionas 3 te enseñara las 4 maneras diferentes de impresion del bst en el siguiente ordenÑ preOrder, inOrder, postOrder y levelbyLevel.
+
+##SICT0302B: Toma decisiones
+###Usa un árbol adecuado para resolver un problema.
+Se uso un arbol bst que se encuentra en su respectivo archivo y lo que fue implementado de este fue su manera de agregar y consultar los datos que se habian agregado a este, apaerte de almacenarlos de distintas maneras.
+
 Ricardo Nunez Alanis  A01703259
