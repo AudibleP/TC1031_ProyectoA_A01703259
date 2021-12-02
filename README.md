@@ -3,16 +3,16 @@
 
 Este proyecto busca hacer una biblioteca de tus juegos en steam y todas sus características e información. 
 
-#Competencias de la entrega final.
-##SICT0301B: Evalúa los componentes.
-###Presenta Casos de Prueba correctos y completos para todas las funciones y procedimientos del programa
+# Competencias de la entrega final.
+## SICT0301B: Evalúa los componentes.
+### Presenta Casos de Prueba correctos y completos para todas las funciones y procedimientos del programa
 Dentro de casos.cpp se encontrara un main que funcionara como los casos de prueba implementados por nuestro maestro Benjamin y dira si los .h del proyecto funcionan con datos fuera del proyecto.
 
-##SICT0303B: Implementa acciones científicas
-###Implementa mecanismos para consultar información de las estructras correctos
+## SICT0303B: Implementa acciones científicas
+### Implementa mecanismos para consultar información de las estructras correctos
 Dentro de test.cpp en la parte de sorts y arboles, la tercera opcion siendo "Consulta informacion de un juego" te deja buscar por nombre cualquier juego dentro del vector y te dice cuanto tiempo tienes jugando.
 
-###Implementa mecanismos de escritura de archivos correctos
+### Implementa mecanismos de escritura de archivos correctos
 Dentro de test.cpp en la parte de sorts y arboles, la segunda opcion aparte de ordenarte los valores por nombre u horas, tambien hara un archivo .txt de tus juegos ordenados.
 
 # Avance 1 (Competencias).
